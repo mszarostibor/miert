@@ -1,1 +1,45 @@
 <!DOCTYPE html>
+<html>
+<head>    
+<title>A túró rudi története</title>
+<meta charset="uft8" /><meta lang="hu" />
+<link rel="stylesheet" type="text/css" href="style.css" />
+</head>
+<body>
+<h1>A túró rudi története</h1>
+<p>Mindannyiunk egyik kedvenc desszertjét, a Túró Rudit 50 évvel ezelőtt, 1968-ban kezdték el gyártani Magyarországon.</p>
+<p>Története azonban 1954-ig nyúlik vissza, amikor hazánkban Rákosi Mátyásnak hívták a mindenhatót, amikor a világ legjobb focicsapata elveszítette a világbajnoki döntőt, amikor Békéscsabán megalakult a Békés Megyei Jókai Színház.</p>
+<p>Ebben az évben három magyar szakember tanulmányútra utazott. Na hova? Természetesen Moszkvába.</p>
+<p>Hogy ebből az útból hogyan következik a Túró Rudi? Megtudhatják mai időutazós rovatunkból!</p>
+
+<h3>Túró mignont a magyar dolgozóknak!</h3>
+<div id="job">
+    <img src="turo1.jpg" width="150" height="150">
+</div>
+<p>Történetünk a nagy és vörös és egyébként is legyőzhetetlen Szovjetunióban kezdődött. A Magyar Tejipari Kutató Intézet (MTKI) három szakembert küldött ki kéthetes tanulmányútra, a szocialista tejipar tanulmányozására.
+
+Itt ízlelték meg először a Túró Rudi ősét, a meglehetősen bizarr nevű glazirovannij szürok elnevezésű, túróvaj és zsír keverékéből készült, cukrozott és csokoládéval bevont, lágy állagú, kerek formájú édességet, amit Hőseink akkor túró mignonnak kereszteltek el. Valahogy ráéreztek, hogy ez az íz párosítás komoly függőséget képes kialakítani. Így javasolták a termék hazai íz- és ízlésvilágának megfelelő kifejlesztését, amely Budapesten, az MTKI egyik részlegében, a Rottenbiller utca 31. szám alatt el is kezdődött és közel 12 évig tartott.
+
+Sokan az erzsébetvárosi tejüzem művezetőjét, Mandelville Rudolfot hitték a Túró Rudi keresztapjának, de ez csak a nevek véletlen egybeesése. A csomagolás megtervezésével és reklámkampány lebonyolításával, illetve a névadással Klein Sándor reklámpszichológust bízták meg, aki egészen egyszerűen a rúd alakú forma alapján adta a Rudi keresztnevet.</p>
+
+<h3 id="job">Rudi = Pornográfia</h3>
+<div id="bal">
+<img src="turo2.jpg" width="150" height="150">
+</div>
+<p>A névadással el is indult a lavina. Az ügyeletes reklámokat felügyelő szocialista erkölcscsőszök először túl hosszúnak, majd a Hírlapkiadó Vállalat reklám osztályának a vezetője erkölcstelennek és pornográfnak találta a nevet: ,,…erkölcstelen elnevezésű termékük reklámozását a kiadásunkban megjelenő lapokban nem engedélyezzük” – közölte.
+Javasolták helyette a Tutu és Titi nevet, de Klien, akinek - a csőszökkel és a túl lelkes osztályvezető elvtárssal szemben - volt ízlése, nem ment bele. Ezért a Túró Rudi jószerivel a nyomtatott sajtó reklámja nélkül kezdhette meg pályafutását. Az első csomagolás egy piros copfos kislányfejjel volt díszítve, de már itt is megjelent az azóta már szimbólummá vált pöttymintáza</p>
+
+<h3>Hurkatöltő és szemmérték</h3>
+<div id="job">
+    <img src="turo3.jpg" width="150" height="150">
+    </div>
+<p>A gyártást  a pesti  erzsébetvárosi üzemből a faszerkezetes első gyártógépet hamarosan áthelyezték Nyíregyházára, majd Mátészalkára, ahol már egy kimondott túróüzemben készültek a rudik. Az első szériák hurkatöltő segítségével nyerték el formájukat. A kezdetekben, 3 műszakban 25-30 ember dolgozott azért, hogy a  túrós finomságot szemmértékkel háromdekás darabokra szeleteljék. Mivel ekkor még nem használtak adalékanyagokat és tartósítószereket, a rudikra egy karakteresebb, enyhén erjedt, jellegzetes túrós íz volt jellemző. Akik emlékeznek még az 1990-es évek előtti rudik ízére, pont ezt a kissé már savanykás ízt hiányolják a rudikból. A rudacska szavatossági ideje is mindössze 3 nap volt. Ebből egy napot eleve a gyár raktárában töltött a szállításra várva. Viszont olyan viharos népszerűségre tett szert, hogy a polcokról úgyis azonnal elkapkodták.</p>
+
+<h3 id="job">Békés megyei szál</h3>
+<div id="bal">
+    <img src="turo4.jpg" width="150" height="150">
+    </div>
+<p>Mint tudjuk, szinte minden történetben van egy Békés megyei szál, ez alól a Túró Rudi sztorija sem lehet kivétel.
+Mátészalkát követően 1981-ben indult Nagybánhegyesen a Túró Rudi gyártás, amely egészen 1999-ig tartott. Ez akkor a Mátészalkai Tejüzem számára valódi konkurenciát jelentett egészen addig, amíg az 1990-es években közös irányítás alá nem került a két üzem. Nagybánhegyesen a gyártás elindításához szükséges gépet a Szerencsi Csokoládégyártól vásárolták, amely már 12 csöves gép volt, a rudakat 3 soros kézi vágóval vágta egy női dolgozó. A mártógép az NDK-ból szerezték be, a hűtést a mátészalkaihoz hasonló módon kompresszorok oldották meg. Itt az eredeti fagépeket csak a ’90-es évek első felében cserélték le saját fejlesztésű gépre.</p>
+</body>
+</html>
