@@ -1,0 +1,16 @@
+body{
+    background-color: lightgreen;
+}
+h1{
+    text-align: center;
+}
+#nevek{
+    font-style: italic;
+    font-weight: bold;
+}
+#job{
+    text-align: right;
+}
+#bal{
+    text-align: left;
+}
